@@ -45,7 +45,9 @@ header.startup h1 {
 }
 
 .btn-xl {
-  padding: 1rem 2rem;
+  padding: 1rem 2rem ;
+  max-width: 65px;
+  border-width: 3px;
 }
 
 .btn-primary {
